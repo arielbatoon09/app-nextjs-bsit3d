@@ -18,7 +18,7 @@ function Home() {
     <div className="container mx-auto pt-10">
       <Card className="w-[300px]">
         <CardHeader>
-          <CardTitle>Malupiton</CardTitle>
+          <CardTitle>Malupiton x Joel</CardTitle>
           <CardDescription>Content Creator</CardDescription>
         </CardHeader>
         <CardContent>
